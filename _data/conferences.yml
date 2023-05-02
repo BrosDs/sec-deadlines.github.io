@@ -689,4 +689,15 @@
   place: Seattle, Washington, USA
   comment: Co-located with ISSTA 2023
   tags: [SEC, SHOP]
+  
+- name: ACSW
+  description: Automotive Cyber-Security Workshop
+  comment: In conjunction with IEEE EuroS&P 2023
+  year: 2023
+  link: http://acsw.unimore.it/
+  deadline: "2023-06-16 23:59"
+  date: July 3
+  place: Delft, NL
+  tags: [SEC, SHOP]
+
 
